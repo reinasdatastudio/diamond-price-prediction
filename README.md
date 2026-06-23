@@ -1,10 +1,14 @@
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-39729E?logo=quarto&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
 # Diamond Price Prediction using Statistical and Machine Learning Models
 
 A reproducible predictive modelling workflow using **R** to estimate diamond prices through exploratory data analysis, feature engineering, multiple linear regression, Random Forest, and model evaluation.
 
 ### Full Report
 
-https://github.com/reinasdatastudio/diamond-price-prediction/diamonds-price-prediction.html
+https://reinasdatastudio.github.io/diamond-price-prediction/diamonds-price-prediction.html
 
 ## Overview
 
@@ -69,7 +73,8 @@ https://reinasdatastudio.github.io/webpage/
 データ前処理、特徴量エンジニアリング、探索的データ解析（EDA）、重回帰分析、Random Forestによる機械学習、モデル評価までを、**R**と**Quarto**を用いて再現可能なワークフローとして実装しています。
 
 ### レポート
-https://github.com/reinasdatastudio/diamond-price-prediction/diamonds-price-prediction.html
+
+https://reinasdatastudio.github.io/diamond-price-prediction/diamonds-price-prediction.html
 
 ## 主な内容
 
